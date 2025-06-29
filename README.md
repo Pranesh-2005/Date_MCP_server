@@ -24,7 +24,7 @@ This Python tool provides the current date, time, and your approximate geographi
 
 - Python 3.8 or higher
 - [aiohttp](https://pypi.org/project/aiohttp/)
-- [mcp](https://github.com/anthropic-ai/mcp) (Anthropic's Model Context Protocol library)
+- [mcp](https://www.anthropic.com/news/model-context-protocol) (Anthropic's Model Context Protocol library)
 
 ---
 
